@@ -36,4 +36,12 @@ I like knowing how systems actually work underneath: packets, processes, tables,
 
 ---
 
+### 📡 What DFW employers are asking for
+
+<a href="https://roscoe02.github.io/#radar"><img src="https://roscoe02.github.io/radar.svg" alt="Skills radar: top skills in Dallas–Fort Worth entry-level IT postings this week, marked by whether I have them" width="560"></a>
+
+<sub>Updated every Monday by a GitHub Action I built: Adzuna jobs API → Claude labels the skills in each posting → Python counts them. ✓ I have it · ○ on my study list. Or <a href="https://roscoe02.github.io/#ask">ask my AI assistant</a> about my experience.</sub>
+
+---
+
 🌐 **Portfolio:** [roscoe02.github.io](https://roscoe02.github.io)
