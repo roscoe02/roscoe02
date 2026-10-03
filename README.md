@@ -4,11 +4,11 @@ Computer Science student at **UT Dallas** (GPA 3.9, graduating **December 2026**
 
 I like knowing how systems actually work underneath: packets, processes, tables, and logs. Most of what I build is command-line tooling in Python and C, and most of what I enjoy is the debugging.
 
-🔭 **Currently:** finishing my CS degree and building small tools that solve real problems
-🌱 **Learning:** Linux administration, Microsoft Azure, and SQL performance
-💬 **Ask me about:** TCP sockets, multithreading in C, or relational schema design
-📫 **Reach me:** [roscoeethanyt@gmail.com](mailto:roscoeethanyt@gmail.com) · [LinkedIn](https://linkedin.com/in/ethanroscoe)
-📍 Frisco, TX — open to relocation
+- 🔭 **Currently:** finishing my CS degree and building small tools that solve real problems
+- 🌱 **Learning:** Linux administration, Microsoft Azure, and SQL performance
+- 💬 **Ask me about:** TCP sockets, multithreading in C, or relational schema design
+- 📫 **Reach me:** [roscoeethanyt@gmail.com](mailto:roscoeethanyt@gmail.com) · [LinkedIn](https://linkedin.com/in/ethanroscoe)
+- 📍 Frisco, TX — open to relocation
 
 ---
 
@@ -29,10 +29,10 @@ I like knowing how systems actually work underneath: packets, processes, tables,
 
 ### 🛠️ Tech
 
-**Languages:** Python · C · Java · SQL · Bash
-**Systems & networking:** Linux · Windows · macOS · TCP/IP · sockets · multithreading · Wireshark
-**Cloud & security:** Microsoft Azure (App Service, Log Stream) · GitHub Actions (CI/CD) · CodeQL · SAST/DAST
-**Databases & tools:** MySQL · MySQL Workbench · Git · GitHub · VS Code
+- **Languages:** Python · C · Java · SQL · Bash
+- **Systems & networking:** Linux · Windows · macOS · TCP/IP · sockets · multithreading · Wireshark
+- **Cloud & security:** Microsoft Azure (App Service, Log Stream) · GitHub Actions (CI/CD) · CodeQL · SAST/DAST
+- **Databases & tools:** MySQL · MySQL Workbench · Git · GitHub · VS Code
 
 ---
 
